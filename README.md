@@ -49,7 +49,7 @@ News API → Airflow → Kafka → Spark → Streamlit Dashboard
 ### 📰 Latest News
 
 * Displays latest 100 articles
-* Auto-refresh every 5 seconds
+* Auto-refresh every 10 seconds
 
 ### 📈 Metrics
 
