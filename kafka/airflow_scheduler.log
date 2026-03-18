@@ -1,0 +1,105 @@
+2026-03-15T17:24:26.416606Z [info     ] setup plugin alembic.autogenerate.schemas [alembic.runtime.plugins] loc=plugins.py:37
+2026-03-15T17:24:26.417084Z [info     ] setup plugin alembic.autogenerate.tables [alembic.runtime.plugins] loc=plugins.py:37
+2026-03-15T17:24:26.417358Z [info     ] setup plugin alembic.autogenerate.types [alembic.runtime.plugins] loc=plugins.py:37
+2026-03-15T17:24:26.417751Z [info     ] setup plugin alembic.autogenerate.constraints [alembic.runtime.plugins] loc=plugins.py:37
+2026-03-15T17:24:26.417962Z [info     ] setup plugin alembic.autogenerate.defaults [alembic.runtime.plugins] loc=plugins.py:37
+2026-03-15T17:24:26.418264Z [info     ] setup plugin alembic.autogenerate.comments [alembic.runtime.plugins] loc=plugins.py:37
+  ____________       _____________
+ ____    |__( )_________  __/__  /________      __
+____  /| |_  /__  ___/_  /_ __  /_  __ \_ | /| / /
+___  ___ |  / _  /   _  __/ _  / / /_/ /_ |/ |/ /
+ _/_/  |_/_/  /_/    /_/    /_/  \____/____/|__/
+2026-03-15T17:24:30.151414Z [info     ] Starting log server on http://[::]:8793 [airflow.utils.serve_logs.core] loc=core.py:50
+2026-03-15T17:24:30.189483Z [info     ] Starting the scheduler         [airflow.jobs.scheduler_job_runner.SchedulerJobRunner] loc=scheduler_job_runner.py:1102
+2026-03-15T17:24:30.199383Z [info     ] Loaded executor: :LocalExecutor: [airflow.executors.executor_loader] loc=executor_loader.py:281
+2026-03-15T17:24:30.269548Z [info     ] Worker starting up pid=85864   [airflow.executors.local_executor.LocalExecutor] loc=local_executor.py:65
+2026-03-15T17:24:30.286384Z [info     ] Worker starting up pid=85865   [airflow.executors.local_executor.LocalExecutor] loc=local_executor.py:65
+2026-03-15T17:24:30.332103Z [info     ] Worker starting up pid=85867   [airflow.executors.local_executor.LocalExecutor] loc=local_executor.py:65
+2026-03-15T17:24:30.353589Z [info     ] Worker starting up pid=85866   [airflow.executors.local_executor.LocalExecutor] loc=local_executor.py:65
+2026-03-15T17:24:30.365714Z [info     ] Worker starting up pid=85875   [airflow.executors.local_executor.LocalExecutor] loc=local_executor.py:65
+WARNING:  ASGI app factory detected. Using it, but please consider setting the --factory flag explicitly.
+INFO:     Started server process [85862]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://:8793 (Press CTRL+C to quit)
+2026-03-15T17:24:30.442896Z [info     ] Worker starting up pid=85876   [airflow.executors.local_executor.LocalExecutor] loc=local_executor.py:65
+2026-03-15T17:24:30.453064Z [info     ] Worker starting up pid=85877   [airflow.executors.local_executor.LocalExecutor] loc=local_executor.py:65
+2026-03-15T17:24:30.457358Z [info     ] Worker starting up pid=85878   [airflow.executors.local_executor.LocalExecutor] loc=local_executor.py:65
+2026-03-15T17:24:30.482627Z [info     ] Worker starting up pid=85883   [airflow.executors.local_executor.LocalExecutor] loc=local_executor.py:65
+2026-03-15T17:24:30.495556Z [info     ] Worker starting up pid=85884   [airflow.executors.local_executor.LocalExecutor] loc=local_executor.py:65
+2026-03-15T17:24:30.518867Z [info     ] Worker starting up pid=85885   [airflow.executors.local_executor.LocalExecutor] loc=local_executor.py:65
+2026-03-15T17:24:30.539532Z [info     ] Worker starting up pid=85886   [airflow.executors.local_executor.LocalExecutor] loc=local_executor.py:65
+2026-03-15T17:24:30.553639Z [info     ] Worker starting up pid=85887   [airflow.executors.local_executor.LocalExecutor] loc=local_executor.py:65
+2026-03-15T17:24:30.567940Z [info     ] Worker starting up pid=85888   [airflow.executors.local_executor.LocalExecutor] loc=local_executor.py:65
+2026-03-15T17:24:30.584005Z [info     ] Worker starting up pid=85889   [airflow.executors.local_executor.LocalExecutor] loc=local_executor.py:65
+2026-03-15T17:24:30.604796Z [info     ] Worker starting up pid=85891   [airflow.executors.local_executor.LocalExecutor] loc=local_executor.py:65
+2026-03-15T17:24:30.616936Z [info     ] Worker starting up pid=85894   [airflow.executors.local_executor.LocalExecutor] loc=local_executor.py:65
+2026-03-15T17:24:30.629039Z [info     ] Worker starting up pid=85895   [airflow.executors.local_executor.LocalExecutor] loc=local_executor.py:65
+2026-03-15T17:24:30.659335Z [info     ] Worker starting up pid=85896   [airflow.executors.local_executor.LocalExecutor] loc=local_executor.py:65
+2026-03-15T17:24:30.687550Z [info     ] Worker starting up pid=85897   [airflow.executors.local_executor.LocalExecutor] loc=local_executor.py:65
+2026-03-15T17:24:30.706583Z [info     ] Worker starting up pid=85898   [airflow.executors.local_executor.LocalExecutor] loc=local_executor.py:65
+2026-03-15T17:24:30.725855Z [info     ] Worker starting up pid=85899   [airflow.executors.local_executor.LocalExecutor] loc=local_executor.py:65
+2026-03-15T17:24:30.748984Z [info     ] Worker starting up pid=85900   [airflow.executors.local_executor.LocalExecutor] loc=local_executor.py:65
+2026-03-15T17:24:30.756505Z [info     ] Worker starting up pid=85901   [airflow.executors.local_executor.LocalExecutor] loc=local_executor.py:65
+2026-03-15T17:24:30.782238Z [info     ] Worker starting up pid=85902   [airflow.executors.local_executor.LocalExecutor] loc=local_executor.py:65
+2026-03-15T17:24:30.800993Z [info     ] Worker starting up pid=85903   [airflow.executors.local_executor.LocalExecutor] loc=local_executor.py:65
+2026-03-15T17:24:30.816855Z [info     ] Worker starting up pid=85905   [airflow.executors.local_executor.LocalExecutor] loc=local_executor.py:65
+2026-03-15T17:24:30.826865Z [info     ] Worker starting up pid=85906   [airflow.executors.local_executor.LocalExecutor] loc=local_executor.py:65
+2026-03-15T17:24:30.841809Z [info     ] Worker starting up pid=85907   [airflow.executors.local_executor.LocalExecutor] loc=local_executor.py:65
+2026-03-15T17:24:30.855675Z [info     ] Worker starting up pid=85908   [airflow.executors.local_executor.LocalExecutor] loc=local_executor.py:65
+2026-03-15T17:24:30.866386Z [info     ] Worker starting up pid=85909   [airflow.executors.local_executor.LocalExecutor] loc=local_executor.py:65
+2026-03-15T17:24:30.866331Z [info     ] Adopting or resetting orphaned tasks for active dag runs [airflow.jobs.scheduler_job_runner.SchedulerJobRunner] loc=scheduler_job_runner.py:2379
+2026-03-15T17:24:30.877901Z [info     ] Worker starting up pid=85910   [airflow.executors.local_executor.LocalExecutor] loc=local_executor.py:65
+2026-03-15T17:24:30.902101Z [info     ] Marked 1 SchedulerJob instances as failed [airflow.jobs.scheduler_job_runner.SchedulerJobRunner] loc=scheduler_job_runner.py:2402
+2026-03-15T17:29:24.153990Z [info     ] Adopting or resetting orphaned tasks for active dag runs [airflow.jobs.scheduler_job_runner.SchedulerJobRunner] loc=scheduler_job_runner.py:2379
+2026-03-15T17:34:21.400714Z [info     ] Adopting or resetting orphaned tasks for active dag runs [airflow.jobs.scheduler_job_runner.SchedulerJobRunner] loc=scheduler_job_runner.py:2379
+2026-03-15T17:39:21.434444Z [info     ] Adopting or resetting orphaned tasks for active dag runs [airflow.jobs.scheduler_job_runner.SchedulerJobRunner] loc=scheduler_job_runner.py:2379
+2026-03-15T17:44:21.453680Z [info     ] Adopting or resetting orphaned tasks for active dag runs [airflow.jobs.scheduler_job_runner.SchedulerJobRunner] loc=scheduler_job_runner.py:2379
+2026-03-15T17:49:21.471542Z [info     ] Adopting or resetting orphaned tasks for active dag runs [airflow.jobs.scheduler_job_runner.SchedulerJobRunner] loc=scheduler_job_runner.py:2379
+2026-03-15T17:54:21.355199Z [info     ] checking for stale bundle versions locally [airflow.dag_processing.bundles.base] loc=base.py:223
+2026-03-15T17:54:21.357379Z [info     ] DAG bundles loaded: dags-folder, example_dags [airflow.dag_processing.bundles.manager.DagBundlesManager] loc=manager.py:179
+2026-03-15T17:54:21.509275Z [info     ] Adopting or resetting orphaned tasks for active dag runs [airflow.jobs.scheduler_job_runner.SchedulerJobRunner] loc=scheduler_job_runner.py:2379
+2026-03-15T17:59:21.556794Z [info     ] Adopting or resetting orphaned tasks for active dag runs [airflow.jobs.scheduler_job_runner.SchedulerJobRunner] loc=scheduler_job_runner.py:2379
+2026-03-15T18:00:01.951968Z [info     ] DAG news_pipeline is at (or above) max_active_runs (1 of 1), not creating any more runs [airflow.jobs.scheduler_job_runner.SchedulerJobRunner] loc=scheduler_job_runner.py:1804
+Dag run  in running state
+Dag information Queued at: 2026-03-15 18:00:01.939133+00:00 version: 6
+2026-03-15T18:00:02.041253Z [info     ] 1 tasks up for execution:
+	<TaskInstance: news_pipeline.news_collector scheduled__2026-03-15T18:00:00+00:00 [scheduled]> [airflow.jobs.scheduler_job_runner.SchedulerJobRunner] loc=scheduler_job_runner.py:448
+2026-03-15T18:00:02.041479Z [info     ] DAG news_pipeline has 0/16 running and queued tasks [airflow.jobs.scheduler_job_runner.SchedulerJobRunner] loc=scheduler_job_runner.py:520
+2026-03-15T18:00:02.041621Z [info     ] Setting the following tasks to queued state (scheduler job_id=59):
+	<TaskInstance: news_pipeline.news_collector scheduled__2026-03-15T18:00:00+00:00 [scheduled]> (id=019cf2a7-b0a0-7dac-89ec-179db234159e, try_number=1) [airflow.jobs.scheduler_job_runner.SchedulerJobRunner] loc=scheduler_job_runner.py:661
+2026-03-15T18:00:02.043113Z [info     ] Trying to enqueue tasks: [<TaskInstance: news_pipeline.news_collector scheduled__2026-03-15T18:00:00+00:00 [scheduled]>] for executor: LocalExecutor(parallelism=32) [airflow.jobs.scheduler_job_runner.SchedulerJobRunner] loc=scheduler_job_runner.py:765
+/home/latitude/internet-pulse-platform/venv/lib/python3.12/site-packages/jwt/api_jwt.py:147 InsecureKeyLengthWarning: The HMAC key is 24 bytes long, which is below the minimum recommended length of 64 bytes for SHA512. See RFC 7518 Section 3.2.
+2026-03-15T18:00:02.121627Z [info     ] Secrets backends loaded for worker [supervisor] backend_classes=['EnvironmentVariablesBackend', 'MetastoreBackend'] count=2 loc=supervisor.py:1975
+/home/latitude/internet-pulse-platform/venv/lib/python3.12/site-packages/airflow/sdk/execution_time/supervisor.py:477 DeprecationWarning: This process (pid=85864) is multi-threaded, use of fork() may lead to deadlocks in the child.
+2026-03-15T18:00:05.218855Z [info     ] Task finished                  [supervisor] duration=3.102535052999883 exit_code=0 final_state=success loc=supervisor.py:1995 task_instance_id=019cf2a7-b0a0-7dac-89ec-179db234159e
+2026-03-15T18:00:06.200167Z [info     ] 1 tasks up for execution:
+	<TaskInstance: news_pipeline.spark_processing scheduled__2026-03-15T18:00:00+00:00 [scheduled]> [airflow.jobs.scheduler_job_runner.SchedulerJobRunner] loc=scheduler_job_runner.py:448
+2026-03-15T18:00:06.200456Z [info     ] DAG news_pipeline has 0/16 running and queued tasks [airflow.jobs.scheduler_job_runner.SchedulerJobRunner] loc=scheduler_job_runner.py:520
+2026-03-15T18:00:06.200658Z [info     ] Setting the following tasks to queued state (scheduler job_id=59):
+	<TaskInstance: news_pipeline.spark_processing scheduled__2026-03-15T18:00:00+00:00 [scheduled]> (id=019cf2a7-b0a1-784a-a9a4-3d6326b262a1, try_number=1) [airflow.jobs.scheduler_job_runner.SchedulerJobRunner] loc=scheduler_job_runner.py:661
+2026-03-15T18:00:06.202356Z [info     ] Trying to enqueue tasks: [<TaskInstance: news_pipeline.spark_processing scheduled__2026-03-15T18:00:00+00:00 [scheduled]>] for executor: LocalExecutor(parallelism=32) [airflow.jobs.scheduler_job_runner.SchedulerJobRunner] loc=scheduler_job_runner.py:765
+2026-03-15T18:00:06.206534Z [info     ] Received executor event with state success for task instance TaskInstanceKey(dag_id='news_pipeline', task_id='news_collector', run_id='scheduled__2026-03-15T18:00:00+00:00', try_number=1, map_index=-1) [airflow.jobs.scheduler_job_runner.SchedulerJobRunner] loc=scheduler_job_runner.py:854
+2026-03-15T18:00:06.223927Z [info     ] TaskInstance Finished: dag_id=news_pipeline, task_id=news_collector, run_id=scheduled__2026-03-15T18:00:00+00:00, map_index=-1, run_start_date=2026-03-15 18:00:02.134454+00:00, run_end_date=2026-03-15 18:00:05.179595+00:00, run_duration=6.045999999999999, state=success, executor=LocalExecutor(parallelism=32), executor_state=success, try_number=1, max_tries=1, pool=default_pool, queue=default, priority_weight=2, operator=PythonOperator, queued_dttm=2026-03-15 18:00:02.041975+00:00, scheduled_dttm=2026-03-15 18:00:02.030573+00:00,queued_by_job_id=59, pid=92401 [airflow.jobs.scheduler_job_runner.SchedulerJobRunner] loc=scheduler_job_runner.py:912
+2026-03-15T18:00:06.262195Z [info     ] Secrets backends loaded for worker [supervisor] backend_classes=['EnvironmentVariablesBackend', 'MetastoreBackend'] count=2 loc=supervisor.py:1975
+/home/latitude/internet-pulse-platform/venv/lib/python3.12/site-packages/airflow/sdk/execution_time/supervisor.py:477 DeprecationWarning: This process (pid=85865) is multi-threaded, use of fork() may lead to deadlocks in the child.
+2026-03-15T18:00:06.881766Z [info     ] Task finished                  [supervisor] duration=0.6235893720004242 exit_code=0 final_state=success loc=supervisor.py:1995 task_instance_id=019cf2a7-b0a1-784a-a9a4-3d6326b262a1
+2026-03-15T18:00:07.892657Z [info     ] Marking run <DagRun news_pipeline @ 2026-03-15 18:00:00+00:00: scheduled__2026-03-15T18:00:00+00:00, state:running, queued_at: 2026-03-15 18:00:01.939133+00:00. run_type: scheduled> successful [airflow.models.dagrun.DagRun] loc=dagrun.py:1205
+Dag run in success state
+Dag run start:2026-03-15 18:00:01.987553+00:00 end:2026-03-15 18:00:07.892963+00:00
+2026-03-15T18:00:07.893155Z [info     ] DagRun Finished: dag_id=news_pipeline, logical_date=2026-03-15 18:00:00+00:00, run_id=scheduled__2026-03-15T18:00:00+00:00, run_start_date=2026-03-15 18:00:01.987553+00:00, run_end_date=2026-03-15 18:00:07.892963+00:00, run_duration=5.90541, state=success, run_type=scheduled, data_interval_start=2026-03-15 18:00:00+00:00, data_interval_end=2026-03-15 18:00:00+00:00, [airflow.models.dagrun.DagRun] loc=dagrun.py:1275
+2026-03-15T18:00:07.899561Z [info     ] Setting next_dagrun for news_pipeline to 2026-03-15 19:00:00+00:00, run_after=2026-03-15 19:00:00+00:00 [airflow.models.dag] loc=dag.py:693
+2026-03-15T18:00:07.909271Z [info     ] Received executor event with state success for task instance TaskInstanceKey(dag_id='news_pipeline', task_id='spark_processing', run_id='scheduled__2026-03-15T18:00:00+00:00', try_number=1, map_index=-1) [airflow.jobs.scheduler_job_runner.SchedulerJobRunner] loc=scheduler_job_runner.py:854
+2026-03-15T18:00:07.915134Z [info     ] TaskInstance Finished: dag_id=news_pipeline, task_id=spark_processing, run_id=scheduled__2026-03-15T18:00:00+00:00, map_index=-1, run_start_date=2026-03-15 18:00:06.273394+00:00, run_end_date=2026-03-15 18:00:06.856820+00:00, run_duration=0.584, state=success, executor=LocalExecutor(parallelism=32), executor_state=success, try_number=1, max_tries=0, pool=default_pool, queue=default, priority_weight=1, operator=PythonOperator, queued_dttm=2026-03-15 18:00:06.201187+00:00, scheduled_dttm=2026-03-15 18:00:06.186228+00:00,queued_by_job_id=59, pid=92417 [airflow.jobs.scheduler_job_runner.SchedulerJobRunner] loc=scheduler_job_runner.py:912
+2026-03-15T18:04:21.573144Z [info     ] Adopting or resetting orphaned tasks for active dag runs [airflow.jobs.scheduler_job_runner.SchedulerJobRunner] loc=scheduler_job_runner.py:2379
+2026-03-15T18:09:21.605642Z [info     ] Adopting or resetting orphaned tasks for active dag runs [airflow.jobs.scheduler_job_runner.SchedulerJobRunner] loc=scheduler_job_runner.py:2379
+2026-03-15T18:14:21.622156Z [info     ] Adopting or resetting orphaned tasks for active dag runs [airflow.jobs.scheduler_job_runner.SchedulerJobRunner] loc=scheduler_job_runner.py:2379
+2026-03-15T18:19:21.645832Z [info     ] Adopting or resetting orphaned tasks for active dag runs [airflow.jobs.scheduler_job_runner.SchedulerJobRunner] loc=scheduler_job_runner.py:2379
+2026-03-15T18:24:21.371604Z [info     ] checking for stale bundle versions locally [airflow.dag_processing.bundles.base] loc=base.py:223
+2026-03-15T18:24:21.372648Z [info     ] DAG bundles loaded: dags-folder, example_dags [airflow.dag_processing.bundles.manager.DagBundlesManager] loc=manager.py:179
+2026-03-15T18:24:21.662976Z [info     ] Adopting or resetting orphaned tasks for active dag runs [airflow.jobs.scheduler_job_runner.SchedulerJobRunner] loc=scheduler_job_runner.py:2379
+2026-03-15T18:29:21.683160Z [info     ] Adopting or resetting orphaned tasks for active dag runs [airflow.jobs.scheduler_job_runner.SchedulerJobRunner] loc=scheduler_job_runner.py:2379
+2026-03-15T18:34:21.697956Z [info     ] Adopting or resetting orphaned tasks for active dag runs [airflow.jobs.scheduler_job_runner.SchedulerJobRunner] loc=scheduler_job_runner.py:2379
+2026-03-15T18:39:21.716128Z [info     ] Adopting or resetting orphaned tasks for active dag runs [airflow.jobs.scheduler_job_runner.SchedulerJobRunner] loc=scheduler_job_runner.py:2379
+2026-03-15T18:40:56.661322Z [info     ] Exiting gracefully upon receiving signal 15 [airflow.jobs.scheduler_job_runner.SchedulerJobRunner] loc=scheduler_job_runner.py:285
+2026-03-15T18:40:56.661856Z [info     ] Shutting down LocalExecutor; waiting for running tasks to finish.  Signal again if you don't want to wait. [airflow.executors.local_executor.LocalExecutor] loc=local_executor.py:252

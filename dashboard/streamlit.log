@@ -1,0 +1,399 @@
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://172.18.234.119:8501
+
+gio: http://localhost:8501: Operation not supported
+2026-03-15 16:59:22.412 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+/home/latitude/internet-pulse-platform/dashboard/app.py:99: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  timeline_df["hour"] = timeline_df["published"].dt.floor("H")
+2026-03-15 16:59:22.833 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+/home/latitude/internet-pulse-platform/dashboard/app.py:99: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  timeline_df["hour"] = timeline_df["published"].dt.floor("H")
+2026-03-15 16:59:28.498 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-15 16:59:28.506 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+/home/latitude/internet-pulse-platform/dashboard/app.py:99: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  timeline_df["hour"] = timeline_df["published"].dt.floor("H")
+/home/latitude/internet-pulse-platform/dashboard/app.py:99: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  timeline_df["hour"] = timeline_df["published"].dt.floor("H")
+2026-03-15 16:59:33.761 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-15 16:59:33.768 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+/home/latitude/internet-pulse-platform/dashboard/app.py:99: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  timeline_df["hour"] = timeline_df["published"].dt.floor("H")
+/home/latitude/internet-pulse-platform/dashboard/app.py:99: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  timeline_df["hour"] = timeline_df["published"].dt.floor("H")
+2026-03-15 16:59:39.069 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+/home/latitude/internet-pulse-platform/dashboard/app.py:99: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  timeline_df["hour"] = timeline_df["published"].dt.floor("H")
+2026-03-15 16:59:39.143 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+/home/latitude/internet-pulse-platform/dashboard/app.py:99: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  timeline_df["hour"] = timeline_df["published"].dt.floor("H")
+2026-03-15 16:59:44.418 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-15 16:59:44.419 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+/home/latitude/internet-pulse-platform/dashboard/app.py:99: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  timeline_df["hour"] = timeline_df["published"].dt.floor("H")
+/home/latitude/internet-pulse-platform/dashboard/app.py:99: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  timeline_df["hour"] = timeline_df["published"].dt.floor("H")
+2026-03-15 16:59:49.023 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-15 16:59:49.083 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+/home/latitude/internet-pulse-platform/dashboard/app.py:99: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  timeline_df["hour"] = timeline_df["published"].dt.floor("H")
+/home/latitude/internet-pulse-platform/dashboard/app.py:99: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  timeline_df["hour"] = timeline_df["published"].dt.floor("H")
+2026-03-15 16:59:54.353 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-15 16:59:54.408 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+/home/latitude/internet-pulse-platform/dashboard/app.py:99: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  timeline_df["hour"] = timeline_df["published"].dt.floor("H")
+/home/latitude/internet-pulse-platform/dashboard/app.py:99: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  timeline_df["hour"] = timeline_df["published"].dt.floor("H")
+2026-03-15 16:59:59.767 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-15 16:59:59.773 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+/home/latitude/internet-pulse-platform/dashboard/app.py:99: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  timeline_df["hour"] = timeline_df["published"].dt.floor("H")
+/home/latitude/internet-pulse-platform/dashboard/app.py:99: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  timeline_df["hour"] = timeline_df["published"].dt.floor("H")
+2026-03-15 17:00:05.097 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-15 17:00:05.100 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+/home/latitude/internet-pulse-platform/dashboard/app.py:99: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  timeline_df["hour"] = timeline_df["published"].dt.floor("H")
+/home/latitude/internet-pulse-platform/dashboard/app.py:99: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  timeline_df["hour"] = timeline_df["published"].dt.floor("H")
+2026-03-15 17:00:10.459 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-15 17:00:10.461 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+/home/latitude/internet-pulse-platform/dashboard/app.py:99: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  timeline_df["hour"] = timeline_df["published"].dt.floor("H")
+/home/latitude/internet-pulse-platform/dashboard/app.py:99: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  timeline_df["hour"] = timeline_df["published"].dt.floor("H")
+2026-03-15 17:00:15.724 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-15 17:00:15.734 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+/home/latitude/internet-pulse-platform/dashboard/app.py:99: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  timeline_df["hour"] = timeline_df["published"].dt.floor("H")
+/home/latitude/internet-pulse-platform/dashboard/app.py:99: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  timeline_df["hour"] = timeline_df["published"].dt.floor("H")
+2026-03-15 17:00:20.280 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-15 17:00:20.359 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+/home/latitude/internet-pulse-platform/dashboard/app.py:99: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  timeline_df["hour"] = timeline_df["published"].dt.floor("H")
+/home/latitude/internet-pulse-platform/dashboard/app.py:99: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  timeline_df["hour"] = timeline_df["published"].dt.floor("H")
+2026-03-15 17:00:25.564 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-15 17:00:25.569 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+/home/latitude/internet-pulse-platform/dashboard/app.py:99: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  timeline_df["hour"] = timeline_df["published"].dt.floor("H")
+/home/latitude/internet-pulse-platform/dashboard/app.py:99: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  timeline_df["hour"] = timeline_df["published"].dt.floor("H")
+2026-03-15 17:00:30.828 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-15 17:00:30.832 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+/home/latitude/internet-pulse-platform/dashboard/app.py:99: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  timeline_df["hour"] = timeline_df["published"].dt.floor("H")
+/home/latitude/internet-pulse-platform/dashboard/app.py:99: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  timeline_df["hour"] = timeline_df["published"].dt.floor("H")
+2026-03-15 17:00:36.088 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-15 17:00:36.095 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+/home/latitude/internet-pulse-platform/dashboard/app.py:99: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  timeline_df["hour"] = timeline_df["published"].dt.floor("H")
+/home/latitude/internet-pulse-platform/dashboard/app.py:99: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  timeline_df["hour"] = timeline_df["published"].dt.floor("H")
+2026-03-15 17:00:41.348 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-15 17:00:41.351 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+/home/latitude/internet-pulse-platform/dashboard/app.py:99: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  timeline_df["hour"] = timeline_df["published"].dt.floor("H")
+/home/latitude/internet-pulse-platform/dashboard/app.py:99: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  timeline_df["hour"] = timeline_df["published"].dt.floor("H")
+2026-03-15 17:00:46.592 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-15 17:00:46.595 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+/home/latitude/internet-pulse-platform/dashboard/app.py:99: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  timeline_df["hour"] = timeline_df["published"].dt.floor("H")
+/home/latitude/internet-pulse-platform/dashboard/app.py:99: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  timeline_df["hour"] = timeline_df["published"].dt.floor("H")
+2026-03-15 17:00:51.099 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+/home/latitude/internet-pulse-platform/dashboard/app.py:99: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  timeline_df["hour"] = timeline_df["published"].dt.floor("H")
+2026-03-15 17:00:51.116 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+/home/latitude/internet-pulse-platform/dashboard/app.py:99: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  timeline_df["hour"] = timeline_df["published"].dt.floor("H")
+2026-03-15 17:00:56.350 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-15 17:00:56.356 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+/home/latitude/internet-pulse-platform/dashboard/app.py:99: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  timeline_df["hour"] = timeline_df["published"].dt.floor("H")
+/home/latitude/internet-pulse-platform/dashboard/app.py:99: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  timeline_df["hour"] = timeline_df["published"].dt.floor("H")
+2026-03-15 17:01:01.593 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-15 17:01:01.598 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+/home/latitude/internet-pulse-platform/dashboard/app.py:99: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  timeline_df["hour"] = timeline_df["published"].dt.floor("H")
+/home/latitude/internet-pulse-platform/dashboard/app.py:99: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  timeline_df["hour"] = timeline_df["published"].dt.floor("H")
+2026-03-15 17:01:06.859 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-15 17:01:06.872 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+/home/latitude/internet-pulse-platform/dashboard/app.py:99: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  timeline_df["hour"] = timeline_df["published"].dt.floor("H")
+/home/latitude/internet-pulse-platform/dashboard/app.py:99: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  timeline_df["hour"] = timeline_df["published"].dt.floor("H")
+2026-03-15 17:01:12.023 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-15 17:01:12.087 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+/home/latitude/internet-pulse-platform/dashboard/app.py:99: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  timeline_df["hour"] = timeline_df["published"].dt.floor("H")
+/home/latitude/internet-pulse-platform/dashboard/app.py:99: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  timeline_df["hour"] = timeline_df["published"].dt.floor("H")
+2026-03-15 17:01:17.302 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-15 17:01:17.307 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+/home/latitude/internet-pulse-platform/dashboard/app.py:99: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  timeline_df["hour"] = timeline_df["published"].dt.floor("H")
+/home/latitude/internet-pulse-platform/dashboard/app.py:99: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  timeline_df["hour"] = timeline_df["published"].dt.floor("H")
+2026-03-15 17:01:22.564 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-15 17:01:22.583 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+/home/latitude/internet-pulse-platform/dashboard/app.py:99: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  timeline_df["hour"] = timeline_df["published"].dt.floor("H")
+/home/latitude/internet-pulse-platform/dashboard/app.py:99: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  timeline_df["hour"] = timeline_df["published"].dt.floor("H")
+2026-03-15 17:01:26.999 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-15 17:01:27.001 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+/home/latitude/internet-pulse-platform/dashboard/app.py:99: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  timeline_df["hour"] = timeline_df["published"].dt.floor("H")
+/home/latitude/internet-pulse-platform/dashboard/app.py:99: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  timeline_df["hour"] = timeline_df["published"].dt.floor("H")
+2026-03-15 17:01:32.216 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-15 17:01:32.221 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+/home/latitude/internet-pulse-platform/dashboard/app.py:99: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  timeline_df["hour"] = timeline_df["published"].dt.floor("H")
+/home/latitude/internet-pulse-platform/dashboard/app.py:99: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  timeline_df["hour"] = timeline_df["published"].dt.floor("H")
+2026-03-15 17:01:37.433 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-15 17:01:37.440 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+/home/latitude/internet-pulse-platform/dashboard/app.py:99: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  timeline_df["hour"] = timeline_df["published"].dt.floor("H")
+/home/latitude/internet-pulse-platform/dashboard/app.py:99: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  timeline_df["hour"] = timeline_df["published"].dt.floor("H")
+2026-03-15 17:01:42.650 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-15 17:01:42.658 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+/home/latitude/internet-pulse-platform/dashboard/app.py:99: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  timeline_df["hour"] = timeline_df["published"].dt.floor("H")
+/home/latitude/internet-pulse-platform/dashboard/app.py:99: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  timeline_df["hour"] = timeline_df["published"].dt.floor("H")

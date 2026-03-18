@@ -1,0 +1,23 @@
+# Python env
+venv/
+__pycache__/
+*.pyc
+
+# Data lake (ignore data, keep folder)
+data_lake/*.json
+data_lake/*.csv
+data_lake/*.parquet
+
+# Keep folder structure
+!data_lake/.gitkeep
+
+# Kafka logs
+kafka-logs/
+logs/
+
+# Airflow
+airflow/logs/
+airflow/airflow.db
+
+# OS
+.DS_Store
